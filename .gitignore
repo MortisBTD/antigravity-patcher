@@ -1,0 +1,6 @@
+language_server.exe
+language_server.exe.orig
+*.orig
+*.log
+__pycache__/
+*.pyc
