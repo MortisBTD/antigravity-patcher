@@ -4,3 +4,4 @@ language_server.exe.orig
 *.log
 __pycache__/
 *.pyc
+dist/
